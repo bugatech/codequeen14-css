@@ -1,0 +1,37 @@
+*{
+    margin:auto !important;
+}
+
+body{
+    background-color: rgb(171,211,247)
+    
+}
+.mother{
+    background-color: brown;
+    height:300px;
+    width: 200px;
+    padding: 50px
+    
+}
+.logo{
+    padding-left: 75px;
+}
+.photo{
+    height:150px;
+    width: 150px;
+    border-radius: 50%;
+    border: white 10px solid;
+    box-shadow: 5px 5px 8px rgb(62,62,153);
+    
+}
+#slogan{
+    color:cadetblue;
+    font-size: 20px;
+    font-family: monospace;
+}
+.company{
+    color: cadetblue;
+    font-size: 20px;
+    font-family: monospace;
+    
+}
